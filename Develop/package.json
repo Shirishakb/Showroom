@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^11.0.2"
+  },
+  "name": "showroom",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "start": "npm run build && dist/node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
