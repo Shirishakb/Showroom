@@ -1,17 +1,17 @@
 {
   "dependencies": {
-    "inquirer": "^11.0.2"
+    "inquirer": "^11.1.0"
   },
   "name": "showroom",
   "version": "1.0.0",
-  "main": "dist/index.js",
+  "main": "index.js",
   "type": "module",
   "devDependencies": {
     "typescript": "^5.6.2"
   },
   "scripts": {
     "build": "npx tsc",
-    "start": "npm run build && dist/node index.js",
+    "start": "npm run build && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
