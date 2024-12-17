@@ -66,4 +66,4 @@ Moving forward, you will be provided with the `tsconfig.json` file. This is to r
 
 
 ## Walk-through video
-https://www.loom.com/share/ef306ea391e445b090de4e86880e9cba?sid=2874c7c1-075b-41ff-a039-adceb08e6b59
+https://www.loom.com/share/feb01334ef4e43479c9e22884af5acda
